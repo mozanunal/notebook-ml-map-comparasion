@@ -74,14 +74,7 @@ print(X_image)
      [0.50196078 0.50980392 0.55686275 ... 0.43921569 0.50196078 0.49803922]]
     
 
-    c:\users\mehmetozanunal\appdata\local\programs\python\python35\lib\site-packages\scipy\misc\pilutil.py:482: FutureWarning: Conversion of the second argument of issubdtype from `int` to `np.signedinteger` is deprecated. In future, it will be treated as `np.int32 == np.dtype(int).type`.
-      if issubdtype(ts, int):
-    c:\users\mehmetozanunal\appdata\local\programs\python\python35\lib\site-packages\scipy\misc\pilutil.py:485: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
-      elif issubdtype(type(size), float):
-    
-
-
-![png](test/test.jpg)
+![output_4_2](https://user-images.githubusercontent.com/13440502/48306887-9eda8480-e552-11e8-884a-917fee2fd5b6.png)
 
 
 #### Create Noise
@@ -136,7 +129,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![output_11_0](https://user-images.githubusercontent.com/13440502/48306889-9f731b00-e552-11e8-8d6a-a92671db887f.png)
 
 
 #### This simulation should be converted to function to easily run
@@ -241,7 +234,7 @@ plt.show()
     
 
 
-![png](output_18_1.png)
+![output_18_1](https://user-images.githubusercontent.com/13440502/48306890-9f731b00-e552-11e8-8730-35da3a07599f.png)
 
 
 ## 3. Varience of maximum likelihood
@@ -280,7 +273,7 @@ plt.plot(varArr)
 
 
 
-![png](output_22_1.png)
+![output_22_1](https://user-images.githubusercontent.com/13440502/48306891-a00bb180-e552-11e8-9562-b04b624ebb1e.png)
 
 
 
@@ -302,5 +295,5 @@ plt.show()
     
 
 
-![png](output_23_1.png)
+![output_23_1](https://user-images.githubusercontent.com/13440502/48306886-9eda8480-e552-11e8-9f44-7aa4ba93ac1d.png)
 
