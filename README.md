@@ -81,7 +81,7 @@ print(X_image)
     
 
 
-![png](output_4_2.png)
+![png](test/test.jpg)
 
 
 #### Create Noise
