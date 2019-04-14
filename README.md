@@ -17,7 +17,9 @@ In this equation:
 - N is randomly distrubuted zero mean gaussian noise
 
 Size of this vector and matrices are:
-$$ Y_{mx1}=A_{mxn}X_{nx1} + N_{mx1} $$
+```math
+Y_{mx1}=A_{mxn}X_{nx1} + N_{mx1}
+```
 
 
 now contiune with code.
